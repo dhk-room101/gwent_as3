@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="gwint_game.swf_as/gwint_game.as" projectUUID="9caac749-d8b5-45d6-9817-07a7f5882770" version="11">
+  <compiler additionalCompilerArguments="-locale en_US" advancedTelemetry="false" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="" strict="true" targetPlayerVersion="11.4.0" useApolloConfig="false" useDebugRSLSwfs="true" useFlashSDK="true" verifyDigests="true" warn="true">
+    <compilerSourcePath>
+      <compilerSourcePathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/User Interface"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/FLVPlayback"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/FLVPlaybackCaptioning"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="gwint_game.swf_as"/>
+    </compilerSourcePath>
+    <libraryPath defaultLinkType="0">
+      <libraryPathEntry kind="3" linkType="1" path="${FLASHPRO_APPCONFIG}/ActionScript 3.0/FP11.7/playerglobal.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/ActionScript 3.0/libs"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/User Interface"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/FLVPlayback"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLASHPRO_APPCONFIG}/Component Source/ActionScript 3.0/FLVPlaybackCaptioning"/>
+      <libraryPathEntry kind="1" linkType="1" path="gwint_game.swf_as"/>
+    </libraryPath>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications>
+    <application path="gwint_game.swf_as/gwint_game.as"/>
+  </applications>
+  <modules/>
+  <workers/>
+  <buildCSSFiles/>
+  <flashCatalyst validateFlashCatalystCompatibility="false"/>
+</actionScriptProperties>

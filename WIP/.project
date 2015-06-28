@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>gwint_game</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.flashbridge.flashprobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.flashbridge.flashpronature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] FLVPlayback</name>
+			<type>2</type>
+			<locationURI>FLASHPRO_APPCONFIG/Component%20Source/ActionScript%203.0/FLVPlayback</locationURI>
+		</link>
+		<link>
+			<name>[source path] FLVPlaybackCaptioning</name>
+			<type>2</type>
+			<locationURI>FLASHPRO_APPCONFIG/Component%20Source/ActionScript%203.0/FLVPlaybackCaptioning</locationURI>
+		</link>
+		<link>
+			<name>[source path] User Interface</name>
+			<type>2</type>
+			<locationURI>FLASHPRO_APPCONFIG/Component%20Source/ActionScript%203.0/User%20Interface</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
